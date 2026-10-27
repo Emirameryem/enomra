@@ -32,7 +32,7 @@ export default function Navbar({ onOpenQuoteModal }) {
           <div className="flex items-center gap-6">
             <span className="flex items-center gap-1.5 text-slate-300 hover:text-brand-400 transition-colors">
               <MapPin className="w-3.5 h-3.5 text-brand-500" />
-              <span>{companyInfo.locationShort} • Kaçkıran İş Merkezi Kat:3 No:18</span>
+              <span>{companyInfo.locationShort} • Kılıçkıran İş Merkezi No: 3 D:18</span>
             </span>
             <span className="flex items-center gap-1.5 text-slate-300 hover:text-brand-400 transition-colors">
               <Mail className="w-3.5 h-3.5 text-brand-500" />

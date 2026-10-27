@@ -168,7 +168,7 @@ export default function QuoteModal({ isOpen, onClose, preselectedService }) {
               {companyInfo.phone}
             </a>
           </span>
-          <span>Kaçkıran İş Merkezi • Tatvan/Bitlis</span>
+          <span>Kılıçkıran İş Merkezi No: 3 D:18 • Tatvan/Bitlis</span>
         </div>
       </div>
     </div>

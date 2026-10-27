@@ -24,7 +24,7 @@
    - **Yetkili**: Azat ÖLGEN
    - **Telefon**: [0532 678 75 13](tel:+905326787513) (Tek tıkla arama & WhatsApp)
    - **E-Posta**: [destek@enomra.com](mailto:destek@enomra.com)
-   - **Adres**: Kaçkıran İş Merkezi Kat:3 No:18 Reşadiye durağı, Tatvan / Bitlis
+   - **Adres**: Tuğ Mahallesi Pınarbaşı Caddesi Kılıçkıran İş Merkezi No: 3 İç Kapı No: 18, Tatvan / Bitlis
    - **Web**: enomra.com
    - **7/24 Kesintisiz Teknik Destek & Tatvan İnteraktif Harita Entegrasyonu**.
 

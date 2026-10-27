@@ -9,7 +9,7 @@ export const companyInfo = {
   phoneRaw: "+905326787513",
   email: "destek@enomra.com",
   website: "enomra.com",
-  address: "Kaçkıran İş Merkezi Kat:3 No:18 Reşadiye durağı, Tatvan / Bitlis",
+  address: "Tuğ Mahallesi Pınarbaşı Caddesi Kılıçkıran İş Merkezi No: 3 İç Kapı No: 18, Tatvan / Bitlis",
   locationShort: "Tatvan / Bitlis",
   workingHours: "Pazartesi - Cumartesi: 08:30 - 18:30",
   emergencySupport: "7/24 Acil Nöbetçi Teknik Destek",

@@ -124,7 +124,7 @@ export default function ContactSection() {
                     <p className="text-xs sm:text-sm font-semibold text-white leading-snug">
                       {companyInfo.address}
                     </p>
-                    <span className="text-[11px] text-brand-400 block mt-1 font-medium">Reşadiye Durağı Yanı</span>
+                    <span className="text-[11px] text-brand-400 block mt-1 font-medium">Tuğ Mahallesi • Pınarbaşı Caddesi</span>
                   </div>
                 </div>
 
@@ -175,9 +175,9 @@ export default function ContactSection() {
                 className="opacity-80 hover:opacity-100 transition-opacity"
               />
               <div className="absolute bottom-2 left-2 right-2 p-2 rounded-xl bg-slateDark-950/90 backdrop-blur-md border border-white/10 text-[11px] text-slate-300 flex items-center justify-between">
-                <span>📍 Kaçkıran İş Merkezi • Reşadiye Durağı</span>
+                <span>📍 Kılıçkıran İş Merkezi • No: 3 D:18</span>
                 <a 
-                  href="https://maps.google.com/?q=Tatvan+Bitlis+Kaçkıran+İş+Merkezi" 
+                  href="https://maps.google.com/?q=Tatvan+Bitlis+Tug+Mahallesi+Pinarbasi+Caddesi" 
                   target="_blank" 
                   rel="noreferrer" 
                   className="text-brand-400 font-bold hover:underline"
