@@ -65,7 +65,7 @@ export default function Navbar({ onOpenQuoteModal }) {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
           {/* Logo */}
           <a href="#" className="flex items-center gap-2 group">
-            <Logo className="h-10 sm:h-11" />
+            <Logo className="h-12 sm:h-14" />
           </a>
 
           {/* Desktop Nav Links */}

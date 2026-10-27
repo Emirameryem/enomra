@@ -1,6 +1,6 @@
-# ENOMRA GRUP ŞİRKETLERİ - Kurumsal Web Sitesi
+# ENOMRA GROUP - Kurumsal Web Sitesi
 
-**ENOMRA Grup Şirketleri** için kartvizit kurumsal kimliğine, renk paletine (Titanyum Koyu Gri & Altın Sarısı) ve tüm hizmet alanlarına tam uyumlu olarak geliştirilmiş modern, lüks ve yüksek performanslı kurumsal web sitesi.
+**ENOMRA Group** için kurumsal kimliğine, renk paletine (Titanyum Koyu Gri, Gece Mavisi & Altın Sarısı) ve tüm hizmet alanlarına tam uyumlu olarak geliştirilmiş modern, lüks ve yüksek performanslı kurumsal web sitesi.
 
 ---
 

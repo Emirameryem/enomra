@@ -35,7 +35,7 @@ export default function LegalModal({ type, onClose }) {
                 <strong>6698 SAYILI KİŞİSEL VERİLERİN KORUNMASI KANUNU (KVKK) AYDINLATMA METNİ</strong>
               </p>
               <p>
-                <strong>ENOMRA Grup Şirketleri</strong> (Veri Sorumlusu: Sayın Azat ÖLGEN) olarak; web sitemiz (enomra.com), telefon (0532 678 75 13) veya ofisimiz (Tuğ Mahallesi Pınarbaşı Caddesi Kılıçkıran İş Merkezi No: 3 İç Kapı No: 18 Tatvan/Bitlis) aracılığıyla tarafımıza ilettiğiniz ad, soyad, telefon, e-posta gibi kişisel verilerinizi 6698 sayılı KVKK uyarınca titizlikle koruyoruz.
+                <strong>ENOMRA Group</strong> (Veri Sorumlusu: Sayın Azat ÖLGEN) olarak; web sitemiz (enomra.com), telefon (0532 678 75 13) veya ofisimiz (Tuğ Mahallesi Pınarbaşı Caddesi Kılıçkıran İş Merkezi No: 3 İç Kapı No: 18 Tatvan/Bitlis) aracılığıyla tarafımıza ilettiğiniz ad, soyad, telefon, e-posta gibi kişisel verilerinizi 6698 sayılı KVKK uyarınca titizlikle koruyoruz.
               </p>
               <p>
                 <strong>Veri İşleme Amaçları:</strong> Toplanan veriler, talep ettiğiniz güvenlik sistemleri, bilgisayar bakım, otomasyon, endüstriyel yazılım veya dijital medya hizmetlerinin projelendirilmesi, tekliflendirilmesi ve teknik servis desteğinin sağlanması amacıyla işlenir.
@@ -50,7 +50,7 @@ export default function LegalModal({ type, onClose }) {
                 <strong>GİZLİLİK VE VERİ GÜVENLİĞİ POLİTİKASI</strong>
               </p>
               <p>
-                ENOMRA Grup Şirketleri olarak, müşterilerimizin ve iş ortaklarımızın kurumsal ve bireysel verilerinin gizliliğine azami hassasiyet gösteriyoruz.
+                ENOMRA Group olarak, müşterilerimizin ve iş ortaklarımızın kurumsal ve bireysel verilerinin gizliliğine azami hassasiyet gösteriyoruz.
               </p>
               <p>
                 <strong>Teknik Güvenlik Standartları:</strong> Web sitemiz SSL/TLS şifreleme sertifikası ile korunmaktadır. Kamera sistemleri ve sunucu altyapısı kurulumlarında uçtan uca şifreleme ve güçlü parola protokolleri uygulanmaktadır.

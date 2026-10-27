@@ -22,7 +22,7 @@ export default function Hero({ onOpenQuoteModal }) {
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-slateDark-900 border border-brand-500/30 shadow-inner">
               <span className="flex h-2 w-2 rounded-full bg-brand-400 animate-pulse" />
               <span className="text-xs font-semibold text-brand-300 uppercase tracking-widest font-display">
-                ENOMRA GRUP ŞİRKETLERİ
+                ENOMRA GROUP
               </span>
               <span className="text-slate-500 text-xs">•</span>
               <span className="text-xs text-slate-300 font-medium flex items-center gap-1">

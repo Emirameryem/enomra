@@ -1,5 +1,5 @@
 export const companyInfo = {
-  name: "ENOMRA Grup Şirketleri",
+  name: "ENOMRA Group",
   brandName: "ENOMRA",
   tagline: "Geleceğin Teknolojisi, Kurumsal Güven ve İnovasyon",
   subTagline: "Doğu Anadolu'dan Türkiye geneline uzanan kurumsal teknoloji, güvenlik, otomasyon ve dijital dönüşüm ortağınız.",

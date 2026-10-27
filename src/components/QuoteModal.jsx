@@ -24,7 +24,7 @@ export default function QuoteModal({ isOpen, onClose, preselectedService }) {
     }, 2800);
   };
 
-  const whatsappMsg = `*ENOMRA GRUP - KEŞİF & TEKLİF TALEBİ*
+  const whatsappMsg = `*ENOMRA GROUP - KEŞİF & TEKLİF TALEBİ*
 --------------------------------
 • Ad Soyad: ${formData.name || '-'}
 • Telefon: ${formData.phone || '-'}
@@ -70,7 +70,7 @@ export default function QuoteModal({ isOpen, onClose, preselectedService }) {
               </div>
               <h4 className="text-xl font-bold text-white">Talebiniz Alındı!</h4>
               <p className="text-sm text-slate-300 max-w-sm mx-auto">
-                Sayın <strong>{formData.name}</strong>, bilgileriniz Enomra Grup Genel Müdürü Azat ÖLGEN ve saha ekibimize iletilmiştir.
+                Sayın <strong>{formData.name}</strong>, bilgileriniz Enomra Group Genel Müdürü Azat ÖLGEN ve saha ekibimize iletilmiştir.
               </p>
             </div>
           ) : (

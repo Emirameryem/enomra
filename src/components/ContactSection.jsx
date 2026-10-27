@@ -74,7 +74,7 @@ export default function ContactSection() {
               <div className="border-b border-white/10 pb-5">
                 <span className="text-[10px] font-bold text-brand-400 uppercase tracking-widest block">Şirket Yetkilisi</span>
                 <h3 className="text-2xl font-black text-white">{companyInfo.executive}</h3>
-                <p className="text-xs text-slate-400 mt-0.5">Enomra Grup Şirketleri Genel Yönetimi</p>
+                <p className="text-xs text-slate-400 mt-0.5">Enomra Group Genel Yönetimi</p>
               </div>
 
               {/* Contact Channels */}

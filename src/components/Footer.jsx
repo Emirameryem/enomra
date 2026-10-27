@@ -17,7 +17,7 @@ export default function Footer({ onOpenQuoteModal, onOpenLegalModal }) {
           
           {/* Brand Col */}
           <div className="lg:col-span-2 space-y-4">
-            <Logo className="h-12" />
+            <Logo className="h-16 sm:h-20" />
             <p className="text-slate-300 text-xs sm:text-sm leading-relaxed max-w-sm">
               Kamera güvenlik sistemleri, endüstriyel otomasyon, kurumsal bilişim bakımı, özel yazılımlar ve kreatif dijital medya çözümleriyle işletmenizin geleceğini inşa ediyoruz.
             </p>
@@ -117,7 +117,7 @@ export default function Footer({ onOpenQuoteModal, onOpenLegalModal }) {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs">
           <p className="text-slate-400 text-center sm:text-left">
-            © {new Date().getFullYear()} <strong className="text-slate-200">ENOMRA Grup Şirketleri</strong>. Tüm hakları saklıdır.
+            © {new Date().getFullYear()} <strong className="text-slate-200">ENOMRA Group</strong>. Tüm hakları saklıdır.
           </p>
 
           <div className="flex items-center gap-4 text-slate-400">

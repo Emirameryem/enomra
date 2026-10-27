@@ -23,7 +23,7 @@ export default function WhyChooseUs() {
         <div className="text-center max-w-3xl mx-auto space-y-4 mb-16">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-brand-500/10 border border-brand-500/20 text-brand-400 text-xs font-semibold uppercase tracking-wider">
             <CheckCircle className="w-3.5 h-3.5" />
-            <span>Neden Enomra Grup?</span>
+            <span>Neden Enomra Group?</span>
           </div>
 
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white tracking-tight">

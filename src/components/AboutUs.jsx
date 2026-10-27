@@ -20,7 +20,7 @@ export default function AboutUs() {
                 
                 {/* Brand Logo Highlight */}
                 <div className="pb-6 border-b border-white/10 flex justify-center">
-                  <Logo className="h-14 sm:h-16" />
+                  <Logo className="h-20 sm:h-24" />
                 </div>
 
                 {/* Management Info */}
@@ -88,7 +88,7 @@ export default function AboutUs() {
 
             <div className="space-y-4 text-slate-300 text-sm sm:text-base leading-relaxed">
               <p>
-                <strong className="text-white">ENOMRA Grup Şirketleri</strong>; Bitlis Tatvan merkezli olarak kurulan, modern dünyanın en kritik gereksinimleri olan güvenlik sistemleri, bilişim teknolojileri, endüstriyel otomasyon, özel yazılım çözümleri ve dijital prodüksiyon alanlarında anahtar teslim mühendislik hizmeti sunan öncü bir teknoloji kuruluşudur.
+                <strong className="text-white">ENOMRA Group</strong>; Bitlis Tatvan merkezli olarak kurulan, modern dünyanın en kritik gereksinimleri olan güvenlik sistemleri, bilişim teknolojileri, endüstriyel otomasyon, özel yazılım çözümleri ve dijital prodüksiyon alanlarında anahtar teslim mühendislik hizmeti sunan öncü bir teknoloji kuruluşudur.
               </p>
               <p>
                 Kurucumuz <strong className="text-white">{companyInfo.executive}</strong> liderliğinde; küçük işletmelerden organize sanayi fabrikalarına, kamu kurumlarından modern iş merkezlerine kadar yüzlerce projeyi başarıyla hayata geçirdik. Yalnızca montaj yapan bir firma değil, sahanın gereksinimlerine göre en doğru mimariyi tasarlayan bir teknoloji çözüm ortağıyız.
