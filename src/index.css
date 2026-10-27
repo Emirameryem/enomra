@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    color-scheme: dark;
+  }
+  
+  body {
+    background-color: #0b0d11;
+    color: #f1f5f9;
+  }
+
+  /* Custom Sleek Scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #0b0d11;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #2a3346;
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #c59a3f;
+  }
+}
+
+/* Glassmorphism and Glow utilities */
+.glass-panel {
+  background: rgba(17, 20, 27, 0.7);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-panel-gold {
+  background: linear-gradient(135deg, rgba(197, 154, 63, 0.08) 0%, rgba(17, 20, 27, 0.6) 100%);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(197, 154, 63, 0.2);
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #FBE094 0%, #D8A748 50%, #B88528 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold-border-gradient {
+  border-image: linear-gradient(to right, #C59A3F, rgba(197, 154, 63, 0.1)) 1;
+}
+
+/* Ambient glow accents */
+.ambient-glow-gold {
+  position: absolute;
+  filter: blur(100px);
+  background: radial-gradient(circle, rgba(197, 154, 63, 0.15) 0%, rgba(197, 154, 63, 0) 70%);
+  pointer-events: none;
+}
+
+.ambient-glow-blue {
+  position: absolute;
+  filter: blur(120px);
+  background: radial-gradient(circle, rgba(56, 189, 248, 0.08) 0%, rgba(56, 189, 248, 0) 70%);
+  pointer-events: none;
+}

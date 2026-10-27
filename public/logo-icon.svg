@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8C16A" />
+      <stop offset="50%" stop-color="#C59A3F" />
+      <stop offset="100%" stop-color="#A27725" />
+    </linearGradient>
+    <linearGradient id="slateGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4B5563" />
+      <stop offset="100%" stop-color="#1F2937" />
+    </linearGradient>
+  </defs>
+  <!-- Stylized E block in Dark Slate -->
+  <path d="M15 28C15 25 18 22 22 22H52V34H28V44H46V56H28V68H52V80H22C18 80 15 77 15 73V28Z" fill="url(#slateGrad)"/>
+  
+  <!-- Stylized N & Arrow in Brand Gold -->
+  <path d="M42 40L64 74H76V34L85 43L89 39L70 20L51 39L55 43L64 34V60L46 32H38V44H42V40Z" fill="url(#goldGrad)"/>
+  
+  <!-- Dynamic Infinity / O Curve Accent -->
+  <path d="M68 62C75 62 82 67 82 74C82 81 74 86 65 86C58 86 52 82 48 77L55 71C57 74 61 77 65 77C69 77 73 75 73 73C73 70 69 68 65 68H60V62H68Z" fill="url(#slateGrad)"/>
+</svg>
