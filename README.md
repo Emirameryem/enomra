@@ -17,13 +17,10 @@
    - **Sosyal Medya Yönetimi**: Aylık kreatif içerik, Meta & Google reklam yönetimi, dönüşüm odaklı pazarlama.
    - **İçerik Üretimi & Prodüksiyon**: 4K drone hava çekimi, kurumsal tanıtım filmi, stüdyo ve mimari fotoğrafçılık.
 
-3. **İnteraktif Fiyat & Teklif Sihirbazı**:
-   - Müşterilerin 3 adımda hizmet, ölçek ve lokasyon seçip anında WhatsApp veya form aracılığıyla resmi teklif isteyebildiği modern araç.
-
-4. **Hizmet Detay & Şartname Modalleri**:
+3. **Hizmet Detay & Şartname Modalleri**:
    - Her hizmet için teknik spesifikasyonlar, paket kapsamları ve doğrudan o hizmete özel hızlı teklif formu.
 
-5. **Kurumsal İletişim & Lokasyon**:
+4. **Kurumsal İletişim & Lokasyon**:
    - **Yetkili**: Azat ÖLGEN
    - **Telefon**: [0532 678 75 13](tel:+905326787513) (Tek tıkla arama & WhatsApp)
    - **E-Posta**: [destek@enomra.com](mailto:destek@enomra.com)
@@ -31,7 +28,7 @@
    - **Web**: enomra.com
    - **7/24 Kesintisiz Teknik Destek & Tatvan İnteraktif Harita Entegrasyonu**.
 
-6. **Hukuki Güvence (KVKK & Gizlilik)**:
+5. **Hukuki Güvence (KVKK & Gizlilik)**:
    - Açılır KVKK Aydınlatma Metni ve Gizlilik Sözleşmesi modalleri.
 
 ---
@@ -69,7 +66,6 @@ enomra/
 │   │   ├── FAQSection.jsx    # Sıkça sorulan sorular akordeonu
 │   │   ├── Footer.jsx        # Kurumsal alt bilgi, yasal linkler ve hızlı menü
 │   │   ├── Hero.jsx          # Lüks giriş alanı, kurumsal istatistikler ve butonlar
-│   │   ├── InteractiveQuoteWizard.jsx # 3 adımlı teklif & fiyat hesaplayıcı
 │   │   ├── LegalModal.jsx    # KVKK ve Gizlilik Politikası penceresi
 │   │   ├── Logo.jsx          # Kartvizitteki özgün ENOMRA logotype & monogramı
 │   │   ├── Navbar.jsx        # Yapışkan cam efekti menü çubuğu ve acil çağrı

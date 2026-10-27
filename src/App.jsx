@@ -6,7 +6,6 @@ import ServiceDetailModal from './components/ServiceDetailModal';
 import AboutUs from './components/AboutUs';
 import WhyChooseUs from './components/WhyChooseUs';
 import ProcessSection from './components/ProcessSection';
-import InteractiveQuoteWizard from './components/InteractiveQuoteWizard';
 import ProjectsShowcase from './components/ProjectsShowcase';
 import Testimonials from './components/Testimonials';
 import FAQSection from './components/FAQSection';
@@ -69,9 +68,6 @@ export default function App() {
 
         {/* How We Work (Process) */}
         <ProcessSection onOpenQuoteModal={handleOpenQuoteModal} />
-
-        {/* Interactive Quote Calculator / Wizard */}
-        <InteractiveQuoteWizard />
 
         {/* Success Projects Showcase */}
         <ProjectsShowcase onOpenQuoteModal={handleOpenQuoteModal} />

@@ -70,11 +70,6 @@ export default function Footer({ onOpenQuoteModal, onOpenLegalModal }) {
                 </a>
               </li>
               <li>
-                <a href="#fiyat-hesapla" className="text-slate-400 hover:text-brand-400 transition-colors">
-                  Fiyat & Teklif Sihirbazı
-                </a>
-              </li>
-              <li>
                 <a href="#iletisim" className="text-slate-400 hover:text-brand-400 transition-colors">
                   İletişim & Lokasyon
                 </a>

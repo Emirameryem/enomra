@@ -21,7 +21,6 @@ export default function Navbar({ onOpenQuoteModal }) {
     { name: "Neden Enomra?", href: "#neden-biz" },
     { name: "Nasıl Çalışırız?", href: "#surec" },
     { name: "Projeler", href: "#projeler" },
-    { name: "Fiyat Hesapla", href: "#fiyat-hesapla" },
     { name: "İletişim", href: "#iletisim" },
   ];
 
